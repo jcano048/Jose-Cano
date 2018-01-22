@@ -1,3 +1,4 @@
+
 ## Jose Alejandro Cano
 
 Panther ID **6096259**
@@ -53,3 +54,5 @@ _Languages_
 ### References
 
 Available on request at jcano048@fiu.edu
+
+LinkedIn Profile: www.linkedin.com/in/jcano048
