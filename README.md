@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Jose Alejandro Cano
 
-You can use the [editor on GitHub](https://github.com/jcano048/jcano048.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Panther ID **6096259**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
+_Florida International University - Miami, FL_
+2017 - Present
+Bachelor of Science in Information Technology. Expected graduation: December 2019. All college expenses financed by full-time job (40 hours weekly).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Miami Dade College - Miami, FL_
+2015 - 2017
+Associate of Arts Degree in Computer Information Systems. Grade point average: 3.78 of a possible 4.00. Dean’s List. Graduated with honors. All college expenses financed by government grants and a full-time job (40 hours weekly).
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +32,29 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Employment
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jcano048/jcano048.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+_Saint George Bulk Food - Doral, FL_
+2016 - Present
+Assistant manager. Responsible for maintaining store inventory, supervision and motivation of staff to perform their best, and coordination of daily customer service operations.
 
-### Support or Contact
+_Office Depot - Oldsmar, FL_
+2014 - 2016
+Began as a logistics specialist, promoted to technology specialist (part-time). I was responsible for engage and provide an exceptional customer service experience.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_Kaleidoscope Services - Tarpon Springs, FL_
+2013 - 2016
+Began as a print shop operator, promoted to print shop team lead. Some of my duties included:
+• Performed management duties when manager was absent.
+• Communicated deadlines and weekly goals to team members.
+• Generated and shared detailed reports related to team and work performance.
+
+### Leadership
+
+_Languages_
+• Spanish - fluent Spanish speaker.
+• Arabic – basic verbal understanding.
+
+### References
+
+Available on request at [jcano048@fiu.edu]
