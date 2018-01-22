@@ -1,6 +1,6 @@
 ## Jose Alejandro Cano
 
-![Profile Picture](http://www.catmospherecafe.com/assets/kitten-200d8e0e3cbf6c4ab8c2037ffb207e81f840554ceed0891f0b00f3a085156d01.jpg)
+![Profile Picture](https://github.com/jcano048/Jose-Cano/blob/master/Profile%20Picture.jpg)
 
 Panther ID **6096259**
 
