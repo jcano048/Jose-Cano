@@ -1,6 +1,6 @@
 ## Jose Alejandro Cano
 
-![Profile Picture](https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAdkAAAAJDA1NDBjNmVjLWJiZjktNGU5NS05OGEzLTA5NjYxNTQ2YTJjZQ.jpg)
+![Profile Picture](http://www.catmospherecafe.com/assets/kitten-200d8e0e3cbf6c4ab8c2037ffb207e81f840554ceed0891f0b00f3a085156d01.jpg)
 
 Panther ID **6096259**
 
