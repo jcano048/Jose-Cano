@@ -12,26 +12,6 @@ _Miami Dade College - Miami, FL_
 2015 - 2017
 Associate of Arts Degree in Computer Information Systems. Grade point average: 3.78 of a possible 4.00. Dean’s List. Graduated with honors. All college expenses financed by government grants and a full-time job (40 hours weekly).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Employment
 
 _Saint George Bulk Food - Doral, FL_
