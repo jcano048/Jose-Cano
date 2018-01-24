@@ -54,6 +54,6 @@ _Languages_
 
 ### References
 
-Available on request at [jcano048@fiu.edu]()
+Available on request at [Email](to:jcano048@fiu.edu)
 
 [LinkedIn Profile](http://www.linkedin.com/in/jcano048)
