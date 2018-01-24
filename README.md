@@ -1,6 +1,6 @@
 ## Jose Alejandro Cano
 
-![Profile Picture](https://github.com/jcano048/Jose-Cano/blob/master/Profile%20Picture.jpg)
+![Profile Picture](https://raw.githubusercontent.com/jcano048/Jose-Cano/master/Profile%20Picture.jpg)
 
 Panther ID **6096259**
 
