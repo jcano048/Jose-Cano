@@ -1,4 +1,4 @@
-## Jose Alejandro Cano
+]## Jose Alejandro Cano
 
 ![Profile Picture](https://raw.githubusercontent.com/jcano048/Jose-Cano/master/Profile%20Picture.jpg)
 
@@ -54,6 +54,6 @@ _Languages_
 
 ### References
 
-Available on request at jcano048@fiu.edu
+Available on request at [jcano048@fiu.edu]()
 
-LinkedIn Profile: www.linkedin.com/in/jcano048
+LinkedIn Profile: [www.linkedin.com/in/jcano048]()
