@@ -1,4 +1,4 @@
-]## Jose Alejandro Cano
+## Jose Alejandro Cano
 
 ![Profile Picture](https://raw.githubusercontent.com/jcano048/Jose-Cano/master/Profile%20Picture.jpg)
 
