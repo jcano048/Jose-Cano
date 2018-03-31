@@ -10,7 +10,7 @@ Panther ID **6096259**
 
 2017 - Present
 
-Bachelor of Science in Information Technology. Expected graduation: December 2019. All college expenses financed by full-time job (40 hours weekly).
+Bachelor of Science in Information Technology. Expected graduation: May 2019. All college expenses financed by full-time job (40 hours weekly).
 
 • _Miami Dade College - Miami, FL_
 
