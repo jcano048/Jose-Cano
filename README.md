@@ -11,7 +11,7 @@ Associate of Arts Degree in Computer Information Systems. Grade point average: 3
 ### Employment
 • _Saint George Bulk Food - Doral, FL_
 2016 - 2018
-Assistant manager. Responsible for maintaining store inventory, supervision and motivation of staff to perform their best, and coordination of daily customer service operations.
+Assistant manager. Responsible for maintaining store inventory, supervision and motivation of staff to perform their best, and coordination of daily customer service operations.#55
 • _Office Depot - Oldsmar, FL_
 2014 - 2016
 Began as a logistics specialist, promoted to technology specialist (part-time). I was responsible for engage and provide an exceptional customer service experience.
